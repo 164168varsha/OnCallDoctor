@@ -1,0 +1,15 @@
+.navbar-brand{
+    font-weight:bolder;
+    font: bold 35px Trebuchet MS, sans-serif;
+   
+ }
+ .nav-link{
+       color: whitesmoke;
+       
+ }
+.doctor{
+    float: left;
+    width: 100px;
+    height: 70px;
+    background: #555;
+}
